@@ -1,0 +1,56 @@
+body{
+    background-size:cover;
+}
+#bedroom_button{
+    width:300px;
+    background-color:white;
+    border-radius:25px;
+    font-size:20px;
+    border:white;
+}
+.heading{
+    width:100%;
+    font-size:23px;
+}
+#bedroom_image{
+    width:50%;
+    border-radius:20px;
+    box-shadow:10px 10px 10px grey;
+}
+#tv_and_ac_image{
+    width:50%;
+    border-radius:20px;
+    box-shadow:10px 10px 10px grey;
+}
+#desk_image{
+    width:600px;
+    height:400px;
+    border-radius:20px;
+    box-shadow:10px 10px 10px grey;
+}
+#bottle_image{
+    width:700px;
+    height:450px;
+    border-radius:20px;
+    box-shadow:10px 10px  grey;
+}
+#fruit_basket_image{
+    width:650px;
+    height:450px;
+    border-radius:20px;
+    box-shadow:10px 10px  grey;
+}
+#back{
+  float:right;
+  background-color:black;
+  border:black;
+  color:white;
+}
+canvas
+{
+    box-shadow: 10px 10px 10px grey;
+    border-radius:10px;
+    margin-top:100px;
+    width:400px;
+    height:500px;
+}
